@@ -165,7 +165,7 @@
     </build>
 	<repositories>
     <repository>
-      <id>vprofile Releases Repository</id>
+      <id>vprofile Release Repository</id>
       <url>http://13.233.184.16:8081/repository/vprofile-release-repository/</url>
     </repository>
   </repositories>
